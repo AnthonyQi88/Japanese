@@ -1,4 +1,4 @@
-![SAKURA_BLOSSOM](https://github.com/AnthonyQi88/Japanese/blob/master/SAKURA_BLOSSOM.jpg)
+![SAKURA_BLOSSOM](https://github.com/AnthonyQi88/Japanese/blob/master/Images/SAKURA_BLOSSOM.jpg)
 
 # 目録
 1. 提案
