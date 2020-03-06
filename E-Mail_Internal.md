@@ -1,4 +1,4 @@
-![SAKURA SAKU](https://github.com/AnthonyQi88/Japanese/blob/master/SAKURA.jpg)
+![SAKURA SAKU](https://github.com/AnthonyQi88/Japanese/blob/master/Images/SAKURA.jpg)
 
 
 # 申込・申請
