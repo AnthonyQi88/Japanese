@@ -3,7 +3,7 @@
 # 目录
 
 [20200422](https://github.com/AnthonyQi88/Japanese/blob/master/README.md#20200422)
-
+[20200423](https://github.com/AnthonyQi88/Japanese/blob/master/README.md#20200423)
 
 # 2020－04－22
 
@@ -48,7 +48,7 @@
 * 伝統を守るのと、伝統にとらわれるのとは違う。
 
 
-2020-04-23
+# 2020-04-23
 
 1 | 2 | 3 | 4 | 5 | 6
 ---|---|---|---|---|---
