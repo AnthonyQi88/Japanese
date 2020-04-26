@@ -9,7 +9,7 @@
 オーバヘッドが削減される|コンピタンス|シングル・ポイント|トポロジー|n|バッテリー|m|y|ライセンスを別途購入する|w
 アーキテクチャ|クラッシュ _crash_|ストレス・テスト|トランザクション _transaction_|n|パラレル|m|y|r|w
 アップタイム|クエリー _query_|s|t|n|フィードバック|m|y|r|w
-オペレーティング・システム_OS_|コンプライアンス _compliance_|スループット _throghput_|t|n|フレキシビリティー*柔軟性*|モデリング _modeling_|y|r|w
+オペレーティング・システム _OS_|コンプライアンス _compliance_|スループット _throghput_|t|n|フレキシビリティー*柔軟性*|モデリング _modeling_|y|r|w
 インクリメンタル　_増分_|k|s|t|n|バイパス _bypass_|m|y|r|w
 オンデマンド _ondemand_|k|s|t|n|ベンダー _vendor_|m|y|r|w
 インフラストラクチャー _基盤_|k|s|t|n|ホスティング _hosting_|m|y|r|w
